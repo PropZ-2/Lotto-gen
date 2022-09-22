@@ -1,0 +1,7 @@
+C:\Users\Casper\Desktop\Skole projecer\Dania lotto\Dania lotto\bin\Debug\Dania lotto.exe.config
+C:\Users\Casper\Desktop\Skole projecer\Dania lotto\Dania lotto\bin\Debug\Dania lotto.exe
+C:\Users\Casper\Desktop\Skole projecer\Dania lotto\Dania lotto\bin\Debug\Dania lotto.pdb
+C:\Users\Casper\Desktop\Skole projecer\Dania lotto\Dania lotto\obj\Debug\Dania lotto.csproj.AssemblyReference.cache
+C:\Users\Casper\Desktop\Skole projecer\Dania lotto\Dania lotto\obj\Debug\Dania lotto.csproj.CoreCompileInputs.cache
+C:\Users\Casper\Desktop\Skole projecer\Dania lotto\Dania lotto\obj\Debug\Dania lotto.exe
+C:\Users\Casper\Desktop\Skole projecer\Dania lotto\Dania lotto\obj\Debug\Dania lotto.pdb
